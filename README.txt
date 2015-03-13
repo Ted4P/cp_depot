@@ -1,0 +1,1 @@
+A simple attack / defense map for Team Fortress 2, free for distribution and use with credit. Thanks to ListenToGlados and Lcg400 for beta testing.
